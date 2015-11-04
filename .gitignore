@@ -50,6 +50,10 @@ coverage.xml
 # Django stuff:
 *.log
 
+# PyCharm
+.idea
+.cache
+
 # Sphinx documentation
 docs/_build/
 
