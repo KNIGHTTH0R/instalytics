@@ -52,10 +52,12 @@ coverage.xml
 
 # PyCharm
 .idea
-.cache
 
 # Sphinx documentation
 docs/_build/
 
 # PyBuilder
 target/
+
+# Project Specific
+**/settings.json
